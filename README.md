@@ -1,6 +1,5 @@
 # OK Coders Back-End Course
 
-### Overview
 
 Our goal is to learn programming for the server (i.e back-end programming). This
 is a broad topic, so specifically we will learn how to gather, store, and serve
